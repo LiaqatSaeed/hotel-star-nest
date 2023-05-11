@@ -74,8 +74,8 @@ Nest is [MIT licensed](LICENSE).
 
 
 
-## Commit Message Standards
-
+## Commit Message Standards 
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 We are using the following conventions to identify what the commit is doing:
 
 - **FEAT**: A new feature.
